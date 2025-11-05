@@ -1,0 +1,5 @@
+{
+  "name": "Full Screen Iframe Viewer",
+  "description": "A simple React application that displays the website https://example.com within a full-screen iframe.",
+  "requestFramePermissions": []
+}
